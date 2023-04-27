@@ -1,6 +1,6 @@
 ## How to run
 ### Step 1: Set up
-#### Install yarn to create package.json
+#### Install yarn to create `package.json`
     yarn
 ### Step 2: Preprocess
 #### 1. Compile .pug to .html
